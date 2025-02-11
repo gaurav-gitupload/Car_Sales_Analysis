@@ -43,4 +43,4 @@ The following **DAX formulas** were implemented:
 
 ## Author
 👤 **Gaurav Maurya**  
-🔗 [LinkedIn](https://www.linkedin.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/gauravmaurya156)
